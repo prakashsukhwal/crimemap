@@ -1,3 +1,4 @@
 *.pyc
 dbconfig.py
 venv/
+dbconfigtest.py
